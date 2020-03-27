@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8"/>
+        <title>Help</title>
+    </head>
+    <body>
+        <h1>Which program are you using for which you want online help?</h1>
+        <h4>Line Mode Browser</h4>
+             <p>Using the line mode browser, select an option with a number and press RETURN</p>
+        <h4>Viola</h4>
+             <p>For help on Viola, just press the question-mark (?) icon near the top right-hand corner.</p>
+        <h4>NeXTStep</h4>
+             <p>Tso select help with this browser, use Help from the Info menu or select this option wit the mouse (double click).</p>
+        <h4>MidasWWW</h4>
+             <p>For help on this browser, select this option with the mouse.</p>
+             <p>See also the W3 server user manual. For other questions, browse from the W3 project page.</p>
+    </body> 
+</html>
