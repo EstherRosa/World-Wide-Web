@@ -9,5 +9,59 @@
                     <img src="img2/overview.jpg" ALT="OverView"/>
                     <figcaption>OverView</figcaption>
             </figure>
+            <h1>Information by Subject</h1>
+
+                 <h3>See also arrangements by organization or by service type . Mail www-request@info.cern.ch if you know of online information not in these lists....</h3>
+
+                 <h4>Aeronautics</h4>
+                     <p>Mailing list archive index.</p>
+
+                 <h4>Astronomy and Astrophysics</h4>
+                     <p>Abstract Indexes (down?)</p>
+
+                 <h4>Bio Sciences</h4>
+                     <p>See separate list.</p>
+
+                 <h4>Computing</h4>
+                     <p>See Networking , Jargon , newsgroups , Software Technology , Languages , Algorithms.</p>
+
+                 <h4>Geography</h4>
+                     <p>CIA World Fact Book , India: Miscellaneous information , Thai-Yunnan: Davis collection ,</p>
+
+                 <h4>Law</h4>
+                     <p>US Copyright law.</p>
+
+                 <h4>Libraries</h4>
+                     <p>Few libraries currently have servers - you have to log on to them. But you can find out how with Art St.George's list of library systems , about "Library" in the internet resource guide , and the hytelnet index .</p>
+
+                 <h4>Literature</h4>
+                     <p>Project Gutenberg : two classic books a month. See their explanations , the index and newsletter , books published in 1991 , 1992 , and reserved for the USA .</p>
+
+                 <h4>Humanities</h4>
+                     <p>BMCR classical reviews , Poetry , Scifi reviews . See also electronic journals.</p>
+
+                 <h4>Mathematics</h4>
+                     <p>CIRM library (french)</p>
+
+                 <h4>Meteorology</h4>
+                     <p>US weather , state by state. Also WAIS weather (around MIT :-).</p>
+
+                 <h4>Music</h4>
+                     <p>MIDI interfacing , Song lyrics (apparently disabled for copyright reasons)</p>
+
+                 <h4>Physics</h4>
+                     <p>High Energy Physics , Astrophysics abstracts.</p>
+
+                 <h4>Politics & Economics</h4>
+                     <p>US politics . Includes campaign 1992.</p>
+
+                 <h4>Reference</h4>
+                     <p>Roget's Thesaurus . Experimental English dictionary.</p>
+
+                 <h4>Religion</h4>
+                     <p></p>The Bible (King James version) , The Book of Mormon , The Holy Qur'an
+
+                 <h4>Social Sciences</h4>
+                     <p>Coombs papers archive.</p>
     </body>
 </html>
